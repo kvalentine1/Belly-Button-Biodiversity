@@ -1,0 +1,30 @@
+
+#head-title {
+    background-size: 100% 100%;
+    border-bottom-style: solid;
+    border-bottom-color:#ce9199;
+    border-bottom-width: 15px;
+    font-weight: bold;
+    color:#79bdce ;
+}
+
+.info {
+    background-color: rgb(91, 164, 173);
+}
+
+.info-container {
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 6px;
+    border-color: #ce9199;
+    background-color: #ce9199;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    padding-top: 5px;;
+}
+
+body {
+    background-image: url("../images/bacteria.jpeg");
+    background-size:cover;
+    background-color:#9dcfcf;
+}
